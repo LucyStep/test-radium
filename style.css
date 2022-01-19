@@ -1,0 +1,18 @@
+.title {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+/* При наведении курсора текст должен декорироваться */
+.title:hover {
+  color: #17a094;
+  text-decoration: underline;
+}
+
+.title__name {
+  font-size: 35px;
+}
+
+.title__vacancy {
+  font-size: 25px;
+}
